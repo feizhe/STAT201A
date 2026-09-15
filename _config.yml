@@ -1,0 +1,30 @@
+permalink: /blog/:categories/:year/:month/:day/:title
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+title: STAT 201A - Theory of Probability & Statistics
+author:
+  name: Zhe Fei
+  email: zhe.fei@ucr.edu
+  github: feizhe
+
+url: https://feizhe.github.io
+baseurl: /STAT201A
+production_url: https://feizhe.github.io/STAT201A
+markdown: kramdown
+
+JB:
+  version: 0.3.0
+  BASE_PATH: https://feizhe.github.io/STAT201A
+  archive_path: nil
+  categories_path: nil
+  tags_path: nil
+  atom_path: nil
+  rss_path: nil
+  comments:
+    provider: false
+  analytics:
+    provider: false
+  sharing:
+    provider: false
+
