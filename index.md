@@ -3,7 +3,10 @@ layout: index
 title: STAT 201A - Theory of Probability & Statistics
 ---
 
-<h2>Fall 2026</h2>
+<div class="term-heading">
+  <h2>Fall 2026</h2>
+  <a href="https://feizhe.github.io">Main Page</a>
+</div>
 
 ---
 
