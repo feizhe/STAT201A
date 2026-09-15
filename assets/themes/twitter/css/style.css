@@ -11,15 +11,54 @@
 
 .navbar-inverse .brand {color:#ffffff;}
 
-.navbar .main-page-link {
-  font-size: 14px;
-  font-weight: normal;
-  padding-right: 14px;
-  border-right: 1px solid #555; }
+.page-shell {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 800px);
+  column-gap: 32px;
+  max-width: 1012px;
+  margin: 0 auto; }
 
-.navbar .course-title {
-  margin-left: 0;
-  padding-left: 14px; }
+.page-shell > .container-narrow {
+  width: 100%;
+  margin: 0; }
+
+.left-sidebar {
+  padding-top: 50px; }
+
+.left-sidebar a {
+  display: block;
+  padding: 10px 14px;
+  color: #333;
+  font-weight: bold;
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none; }
+
+.left-sidebar a:hover {
+  color: #08c;
+  background: #fff; }
+
+@media (max-width: 1060px) {
+  .page-shell {
+    grid-template-columns: 150px minmax(0, 800px);
+    column-gap: 24px;
+    margin: 0 20px; }
+}
+
+@media (max-width: 760px) {
+  .page-shell {
+    display: block; }
+
+  .left-sidebar {
+    padding-top: 20px; }
+
+  .left-sidebar a {
+    display: inline-block; }
+
+  .page-shell > .container-narrow {
+    margin: 0 auto; }
+}
 
 /* posts index */
 .post > h3.title {
