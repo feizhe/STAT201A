@@ -23,7 +23,8 @@ title: STAT 201A - Theory of Probability & Statistics
 ### Course Notes
 
 - **Week 0:** [Introduction: syllabus, course goals, and use of AI]({{ site.baseurl }}/Notes/0.Intro.html)
-- **Weeks 1–3:** Probability foundations, counting, conditional probability, independence, and random variables (Ch. 1) — *To be posted*
+- **Week 1:** [Set theory and the axioms of probability]({{ site.baseurl }}/Notes/1.Week1.html)
+- **Weeks 2–3:** Counting, conditional probability, independence, and random variables (Ch. 1) — *To be posted*
 - **Weeks 4–5:** Transformations, expectations, moments, and moment generating functions (Ch. 2) — *To be posted*
 - **Weeks 7–8:** Common families of distributions (Ch. 3) — *To be posted*
 - **Weeks 8–10:** Multiple random variables (Ch. 4) — *To be posted*
