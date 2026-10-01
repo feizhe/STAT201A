@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Week 1 Discussion Problems
+title: Week 1 Discussion
 ---
 
 ## Russell's paradox (1901)
 
-In Week 1 we used sets freely: sample spaces, events, unions, complements. But what *is* a set, and can we form a set out of any description we like? At the turn of the 20th century, the answer was thought to be yes. Bertrand Russell showed it cannot be.
+In Week 1 we used sets freely: sample spaces, events, unions, complements. But **what is a set**, and can we form a set out of any description we like? At the turn of the 20th century, the answer was thought to be yes. Bertrand Russell showed it cannot be.
 
 ### The paradox
 
