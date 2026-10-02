@@ -31,7 +31,7 @@ title: STAT 201A - Theory of Probability & Statistics
 
 ### Course Resources
 
-- [Discussion exercises]({{ site.baseurl }}/pages/discussion.html)
+- [Discussions]({{ site.baseurl }}/pages/discussion.html)
 - [Assignments]({{ site.baseurl }}/pages/assignments.html)
 
 ---
