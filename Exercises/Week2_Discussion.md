@@ -5,8 +5,6 @@ title: Week 2 Discussion
 
 **Covers:** the axioms and calculus of probabilities (Week 1, Lecture 1.2) and counting (Week 2, Lecture 2.1).
 
-Work through each problem in steps. Hints are given; final answers are hidden behind "Show answer" so you can check your work.
-
 ---
 
 ### Problem 1 (Working with the probability rules)
@@ -17,7 +15,14 @@ $$
 P(R) = 0.60, \qquad P(Y) = 0.45, \qquad P(R \cap Y) = 0.25.
 $$
 
-For each answer below, name the rule you used (complement rule, Theorem 1.2.8; Theorem 1.2.9; Bonferroni's inequality).
+For each answer below, name the rule you used. The relevant rules, for any events $A$ and $B$:
+
+- **Theorem 1.2.8 (complement rule):** $P(A^c) = 1 - P(A)$; also $P(\emptyset) = 0$ and $P(A) \le 1$.
+- **Theorem 1.2.9:**
+  - **(a)** $P(B \cap A^c) = P(B) - P(A \cap B)$;
+  - **(b)** $P(A \cup B) = P(A) + P(B) - P(A \cap B)$;
+  - **(c)** if $A \subset B$, then $P(A) \le P(B)$ (monotonicity).
+- **Bonferroni's inequality (1.2.9):** $P(A \cap B) \ge P(A) + P(B) - 1$.
 
 **(a)** Find the probability that the student uses
 
