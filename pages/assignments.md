@@ -7,11 +7,11 @@ Homework will be assigned approximately every two weeks and submitted through Ca
 
 ---
 
-- **Homework 1:** Probability foundations and counting — *To be posted*
+- **Homework 1:** Set theory and probability foundations — [web]({{ site.baseurl }}/HWs/hw1.html), [pdf]({{ site.baseurl }}/HWs/hw1.pdf)
 
 ---
 
-- **Homework 2:** Conditional probability and random variables — *To be posted*
+- **Homework 2:** Counting, conditional probability, independence, and random variables — [web]({{ site.baseurl }}/HWs/hw2.html), [pdf]({{ site.baseurl }}/HWs/hw2.pdf)
 
 ---
 
