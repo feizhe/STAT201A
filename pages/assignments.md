@@ -7,7 +7,7 @@ Homework will be assigned approximately every two weeks and submitted through Ca
 
 ---
 
-- **Homework 1:** Set theory and probability foundations — [web]({{ site.baseurl }}/HWs/hw1.html), [pdf]({{ site.baseurl }}/HWs/hw1.pdf)
+- **Homework 1:** Set theory and probability foundations — [web]({{ site.baseurl }}/HWs/hw1.html), [pdf]({{ site.baseurl }}/HWs/hw1.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw1_solutions.html), [pdf]({{ site.baseurl }}/HWs/hw1_solutions.pdf)
 
 ---
 
