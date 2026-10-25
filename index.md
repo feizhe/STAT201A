@@ -27,7 +27,7 @@ title: STAT 201A - Theory of Probability & Statistics
 - **Week 2:** [Counting, Conditional Probability, and Independence]({{ site.baseurl }}/Notes/2.Week2.html)
 - **Week 3:** [Random Variables and Distributions]({{ site.baseurl }}/Notes/3.Week3.html)
 - **Week 4:** [Transformations and Expectations]({{ site.baseurl }}/Notes/4.Week4.html)
-
+- **Week 5:** [Moments, Mgfs, and Differentiating Under an Integral Sign]({{ site.baseurl }}/Notes/5.Week5.html)
 
 
 ### Course Resources
