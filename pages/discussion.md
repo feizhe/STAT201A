@@ -12,4 +12,4 @@ Week 3, [discussion]({{ site.baseurl }}/Exercises/Week3_Discussion.html),
 
 Week 4, [discussion]({{ site.baseurl }}/Exercises/Week4_Discussion.html), [quiz](https://forms.gle/aCpeHbFkKaz15EPk9){:target="_blank" rel="noopener"} 
 
-Week 5, [discussion]({{ site.baseurl }}/Exercises/Week5_Discussion.html)
+Week 5, [discussion]({{ site.baseurl }}/Exercises/Week5_Discussion.html), [quiz](https://forms.gle/NmeAjJvH8mDyvyJD6){:target="_blank" rel="noopener"} 
