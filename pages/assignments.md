@@ -11,7 +11,7 @@ Homework will be assigned approximately every two weeks and submitted through Ca
 
 ---
 
-- **Homework 2:** Counting, conditional probability, independence, and random variables — [web]({{ site.baseurl }}/HWs/hw2.html), [pdf]({{ site.baseurl }}/HWs/hw2.pdf)
+- **Homework 2:** Counting, conditional probability, independence, and random variables — [web]({{ site.baseurl }}/HWs/hw2.html), [pdf]({{ site.baseurl }}/HWs/hw2.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw2_sol.html), [pdf]({{ site.baseurl }}/HWs/hw2_sol.pdf)
 
 ---
 
