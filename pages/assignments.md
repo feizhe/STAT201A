@@ -7,15 +7,15 @@ Homework will be assigned approximately every two weeks and submitted through Ca
 
 ---
 
-- **Homework 1:** Set theory and probability foundations — [web]({{ site.baseurl }}/HWs/hw1.html), [pdf]({{ site.baseurl }}/HWs/hw1.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw1_solutions.html), [pdf]({{ site.baseurl }}/HWs/hw1_solutions.pdf)
+- **Homework 1:** [web]({{ site.baseurl }}/HWs/hw1.html), [pdf]({{ site.baseurl }}/HWs/hw1.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw1_solutions.html), [pdf]({{ site.baseurl }}/HWs/hw1_solutions.pdf)
 
 ---
 
-- **Homework 2:** Counting, conditional probability, independence, and random variables — [web]({{ site.baseurl }}/HWs/hw2.html), [pdf]({{ site.baseurl }}/HWs/hw2.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw2_sol.html), [pdf]({{ site.baseurl }}/HWs/hw2_sol.pdf)
+- **Homework 2:** [web]({{ site.baseurl }}/HWs/hw2.html), [pdf]({{ site.baseurl }}/HWs/hw2.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw2_sol.html), [pdf]({{ site.baseurl }}/HWs/hw2_sol.pdf)
 
 ---
 
-- **Homework 3:** Distribution functions and transformations — *To be posted*
+- **Homework 3:** [web]({{ site.baseurl }}/HWs/hw3.html), [pdf]({{ site.baseurl }}/HWs/hw3.pdf)
 
 ---
 
