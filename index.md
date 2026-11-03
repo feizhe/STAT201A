@@ -29,7 +29,10 @@ title: STAT 201A - Theory of Probability & Statistics
 - **Week 4:** [Transformations and Expectations]({{ site.baseurl }}/Notes/4.Week4.html)
 - **Week 5:** [Moments, Mgfs, and Differentiating Under an Integral Sign]({{ site.baseurl }}/Notes/5.Week5.html)
 
-- **Week 6:** [Common Families of Distributions]({{ site.baseurl }}/Notes/6.Week6.html)
+- **Midterm Review:** [Midterm Review]({{ site.baseurl }}/Notes/midterm_review.html)
+
+
+<!-- - **Week 7:** [Common Families of Distributions]({{ site.baseurl }}/Notes/6.Week6.html) -->
 
 ### Course Resources
 
