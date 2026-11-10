@@ -32,6 +32,9 @@ title: STAT 201A - Theory of Probability & Statistics
 - **Midterm Review:** [Midterm Review]({{ site.baseurl }}/Notes/midterm_review.html)
 
 
+- **Week 7:** [Common Families of Distributions]({{ site.baseurl }}/Notes/6.week6.html)
+
+
 <!-- - **Week 7:** [Common Families of Distributions]({{ site.baseurl }}/Notes/6.Week6.html) -->
 
 ### Course Resources
