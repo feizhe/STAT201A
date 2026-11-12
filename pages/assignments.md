@@ -15,15 +15,11 @@ Homework will be assigned approximately every two weeks and submitted through Ca
 
 ---
 
-- **Homework 3:** [web]({{ site.baseurl }}/HWs/hw3.html), [pdf]({{ site.baseurl }}/HWs/hw3.pdf)
+- **Homework 3:** [web]({{ site.baseurl }}/HWs/hw3.html), [pdf]({{ site.baseurl }}/HWs/hw3.pdf); solutions: [web]({{ site.baseurl }}/HWs/hw3_sol.html), [pdf]({{ site.baseurl }}/HWs/hw3_sol.pdf)
 
 ---
 
-- **Homework 4:** Expectations, moments, and mgfs — *To be posted*
-
----
-
-- **Homework 5:** Common families of distributions — *To be posted*
+- **Homework 4:** [web]({{ site.baseurl }}/HWs/hw4.html), [pdf]({{ site.baseurl }}/HWs/hw4.pdf)
 
 ---
 
